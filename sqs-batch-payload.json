@@ -1,0 +1,13 @@
+{
+    "Entries": [
+      {
+        "Id": "f4910d89-c556-4984-a9a9-e88d4bdc1cb0",
+        "MessageBody": "{\"key1\": \"value1-from-sqs-to-lambda\", \"key2\": \"value2\"}"
+      },
+      {
+        "Id": "726f3086-1418-4159-b249-138fa7c6f8f6",
+        "MessageBody": "{\"key1\": \"value1-from-sqs-to-lambda\", \"key2\": \"value2\"}"
+      }
+      
+    ]
+  }

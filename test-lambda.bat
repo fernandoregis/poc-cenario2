@@ -1,0 +1,1 @@
+aws lambda --profile regisfe invoke --function-name lambda-test-hello --cli-binary-format raw-in-base64-out --payload "{\"key1\": \"value1\", \"key2\": \"value2\"}" output-lambda.txt --output text

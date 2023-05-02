@@ -1,0 +1,1 @@
+docker build -t nandoregis/poc-cenario2:latest .

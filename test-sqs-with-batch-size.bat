@@ -1,0 +1,1 @@
+aws sqs send-message-batch --profile regisfe --queue-url https://sqs.us-east-1.amazonaws.com/543004125222/sqs-teste-2 --entries C:\src\aws-testF\sqs-batch-payload.json

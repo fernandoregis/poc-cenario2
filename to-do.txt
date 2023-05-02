@@ -1,0 +1,9 @@
+ECS ok
+Lambda ok
+SQS ok
+
+TO-DO:
+ * Fazer a ecs task enfileirar no sqs, usando arrays mesmo, de 5 itens e depois c/ 20 itens + batching
+ * Testar com 5 itens, sem batching
+ * Testar o batching de 5, com 20 itens
+ 
